@@ -11,6 +11,8 @@ head:
 
 # Participate in the SORA Economy
 
+the SORA wiki can be found at wiki.sora.org 
+
 After the [in-depth introduction](sora-economy.md) to SORA and its economic principles,
 here you will find some practical and technical information to help you take part in the SORA economic system.
 
